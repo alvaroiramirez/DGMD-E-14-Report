@@ -3,5 +3,5 @@ This repo stores the documentation of Alvaro Ramirez's project for DGMD E-14.
 
 The documents included are:
 
-- Smart Physical Therapy.pdf: Project paper
+- Smart Physical Therapy 1.2.pdf: Project paper
 - SMART PHYSICAL THERAPY 2.pdf: PowerPoint presentation
